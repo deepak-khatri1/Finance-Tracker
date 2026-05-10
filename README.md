@@ -119,5 +119,4 @@ Finance-Tracker/
 ├── debts.csv          # Debt records
 ├── budgets.csv        # Budget records
 ├── savings.csv        # Savings records
-├── ui.html		         # UI/UX
 └── README.md          # Documentation
